@@ -1,5 +1,5 @@
 package ru.geekbrains.lesson5;
-
+//upload
 public class Dog extends Animal {
 
     Dog(String name, int maxLengthWalks, int maxLengthSwim, float maxHeightJump){

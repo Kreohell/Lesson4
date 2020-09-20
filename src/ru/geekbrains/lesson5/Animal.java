@@ -1,5 +1,5 @@
 package ru.geekbrains.lesson5;
-
+//upload
 public abstract class Animal {
     protected String name;
     protected int maxLengthWalks;
