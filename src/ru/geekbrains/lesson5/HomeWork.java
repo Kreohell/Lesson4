@@ -1,10 +1,10 @@
 package ru.geekbrains.lesson5;
-
+//upload
 public class HomeWork {
     public static void main(String[] args) {
 
-        Cat cat = new Cat("RandomCat1",300, 0, 2);
-        Dog dog = new Dog("RandomDog1",500, 10, 0.5f);
+        Cat cat = new Cat("RandomCat12",300, 0, 2);
+        Dog dog = new Dog("RandomDog12",500, 10, 0.5f);
         System.out.printf("Имя: %s, Пробежит: %s, Проплывет: %s, Прыгнет: %.1f\n",
                 cat.name, cat.maxLengthWalks, cat.maxLengthSwim, cat.maxHeightJump);
 
