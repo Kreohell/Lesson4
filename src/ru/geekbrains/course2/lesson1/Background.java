@@ -3,10 +3,10 @@ package ru.geekbrains.lessons.homework_1;
 
 import java.awt.*;
 
-public class Background extends ru.geekbrains.lessons.homework_1.GameCanvas {
+public class Background extends GameCanvas {
 
 
-    Background(ru.geekbrains.lessons.homework_1.MainCircles controller) {
+    Background(MainCircles controller) {
         super(controller);
         newSetBackground();
         lastFrameTime = System.nanoTime();
